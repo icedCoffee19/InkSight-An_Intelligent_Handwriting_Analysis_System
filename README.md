@@ -17,12 +17,12 @@
 - Built with beginner-friendly yet scalable technologies (React.js, FastAPI, Python, TensorFlow/PyTorch).
 
 ## 📁 Project Structure (Highlights)
-InkSight/\n
-├── frontend/ # React frontend for user interaction\n
-├── backend/ # FastAPI backend for ML processing\n
-├── data/ # Raw and processed handwriting datasets\n
-├── models/ # Pretrained and custom trained models\n
-├── docs/ # Diagrams and documentation\n
+InkSight/
+├── frontend/ # React frontend for user interaction
+├── backend/ # FastAPI backend for ML processing
+├── data/ # Raw and processed handwriting datasets
+├── models/ # Pretrained and custom trained models
+├── docs/ # Diagrams and documentation
 
 ## 🚀 Getting Started
 ### Backend
