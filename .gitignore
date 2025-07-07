@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pkl
+*.h5
+*.pt
+*.ipynb_checkpoints/
+
+# Environments
+.env
+.venv/
+venv/
+env/
+
+# Node.js
+node_modules/
+dist/
+build/
+.npm/
+npm-debug.log*
+
+# Logs
+*.log
+
+# OS-generated
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Model/Dataset dumps
+*.ckpt
+*.onnx
+/data/raw/*
+/data/processed/*
+/models/*
