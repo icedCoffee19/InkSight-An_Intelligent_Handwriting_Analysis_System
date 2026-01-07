@@ -51,5 +51,3 @@ npm start
 MIT License
 
 
-**"InkSight is currently under active development !!"**
-
