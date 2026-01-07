@@ -1,0 +1,13 @@
+# requirements.txt
+
+streamlit
+pandas
+opencv-python-headless
+pyspellchecker
+pytesseract
+Pillow
+torch
+torchvision
+transformers
+sentencepiece
+matplotlib
